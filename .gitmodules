@@ -1,0 +1,3 @@
+[submodule "ext/type_name"]
+	path = ext/type_name
+	url = https://github.com/alexbaroni/type_name.git
